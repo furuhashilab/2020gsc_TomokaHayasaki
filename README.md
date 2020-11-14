@@ -1,4 +1,5 @@
 # 本文
+https://github.com/furuhashilab/2020gsc_TomokaHayasaki/blob/master/graduationthesis.md
 
 # 進捗管理用レポジトリ
 
