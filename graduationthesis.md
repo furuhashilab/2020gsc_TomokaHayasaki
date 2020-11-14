@@ -4,7 +4,7 @@
 
 
 
-## 
+## タイ・バンコクの大学生の生活において「信仰」の持つ潜在的機能に関する宗教社会学的考察
 ## 
 
 
@@ -50,7 +50,7 @@ What have you learned from the study? この研究を通じて得られたもの
 # 本文
 
 # 卒論本文
-
+https://github.com/furuhashilab/2020gsc_TomokaHayasaki/blob/master/graduationthesis.md
 
 # レポジトリ
 
