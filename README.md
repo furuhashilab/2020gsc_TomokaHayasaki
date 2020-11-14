@@ -1,3 +1,3 @@
 # 進捗管理用レポジトリ
 
-https://github.com/furuhashilab/sotsuron2020/projects/23
+https://github.com/furuhashilab/sotsuron2020/projects/30
