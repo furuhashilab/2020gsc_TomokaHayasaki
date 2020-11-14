@@ -1,5 +1,3 @@
-# 卒業論文用レポジトリ
+# 進捗管理用レポジトリ
 
-https://github.com/kisayaha/2020gsc_TomokaHayasaki
-
-# ゼミ論文用レポジトリ
+https://github.com/furuhashilab/sotsuron2020/projects/23
