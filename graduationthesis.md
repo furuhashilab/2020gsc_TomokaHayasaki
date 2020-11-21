@@ -5,8 +5,11 @@
 ２０２０年２月１日
 
 青山学院大学 地球社会共生学部 地球社会共生学科
+
 早﨑 智香/Tomoka Hayasaki
+
 学生番号　1A116180
+
 指導教員　古橋 大地 教授・小堀 真准教授
 
 © Furuhashi Laboratory/Tomoka Hayasaki, CC BY 4.0
@@ -33,6 +36,8 @@ What have you learned from the study? この研究を通じて得られたもの
 
 ## 謝辞:
 本研究を進めるにあたり〇〇〇の〇〇氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+
+* * *
 
 # 本文
 
