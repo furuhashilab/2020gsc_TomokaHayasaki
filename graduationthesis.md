@@ -1,25 +1,12 @@
 # ２０２０年度　卒業論文/ゼミ論文
-
-
-
-
-
 ## タイ・バンコクの大学生の生活において「信仰」の持つ潜在的機能に関する宗教社会学的考察と、社会学的フィールドワークにおける空間情報技術の活用について（仮）
-## 
-
-
-
 
 
 ２０２０年２月１日
 
 青山学院大学 地球社会共生学部 地球社会共生学科
-
 早﨑 智香/Tomoka Hayasaki
-
 学生番号　1A116180
-
-
 指導教員　古橋 大地 教授・小堀 真准教授
 
 © Furuhashi Laboratory/Tomoka Hayasaki, CC BY 4.0
@@ -48,10 +35,5 @@ What have you learned from the study? この研究を通じて得られたもの
 本研究を進めるにあたり〇〇〇の〇〇氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
 # 本文
-
-# 卒論本文
-https://github.com/furuhashilab/2020gsc_TomokaHayasaki/blob/master/graduationthesis.md
-
-# レポジトリ
 
 
