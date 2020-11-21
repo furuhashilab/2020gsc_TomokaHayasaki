@@ -40,5 +40,7 @@ What have you learned from the study? この研究を通じて得られたもの
 * * *
 
 # 本文
+# 序論
+## 目的と方法論
 
 
