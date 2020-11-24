@@ -54,6 +54,7 @@ What have you learned from the study? この研究を通じて得られたもの
 
 ### 「リアリティ」を捉えるにあたって
 ギアツ
+ウェーバー
 
 ### 位置情報の活用
 
