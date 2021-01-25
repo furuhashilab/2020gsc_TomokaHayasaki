@@ -20,6 +20,9 @@ What have you learned from the study? この研究を通じて得られたもの
 本研究を進めるにあたり〇〇〇の〇〇氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
 # ゼミ論文本文
+
+https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
+
 https://github.com/furuhashilab/2020gsc_TomokaHayasaki/blob/master/graduationthesis.md
 
 # 進捗管理用プロジェクト
