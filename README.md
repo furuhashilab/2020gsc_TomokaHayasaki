@@ -1,5 +1,6 @@
-
 # ゼミ論文本文
+
+# 関連するレポート・個人研究
 
 https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
 
