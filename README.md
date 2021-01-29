@@ -1,22 +1,28 @@
-# ゼミ論文本文
+# 2020年度ゼミ論文 「LocalWikiを用いた社会学的質的データアーカイブの実践と考察」
+## 青山学院大学 地球社会共生学部 地球社会共生学科  
+## 1A116180 早﨑 智香 
+## 指導教員　古橋大地 教授  
+
+# 資料  
+## ゼミ論文本文
 https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/edit
 
-# 関連するレポート・個人研究
-## フィールドスタディーⅡ 最終レポート
-### 「バンコクの大学生の生活において、信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
+## 関連するレポート・個人研究
+### フィールドスタディーⅡ最終レポート 「バンコクの大学生の生活において、信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
 https://drive.google.com/drive/u/0/folders/1kY-9IY3MMAcFdH6cV_RQALnbV0IOmTaY
 
-## 個人研究
-### 「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
+### 個人研究 「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
 
-# 進捗管理用プロジェクト
+## 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/30
 
-# ゼミ論文最終発表スライド
+## ゼミ論文最終発表スライド
 https://docs.google.com/presentation/d/1D5bHkm_bBWOCCGt1OyTdLWzyyrvOSBpyJRbFiMHYnFw/edit?usp=sharing* * *
 
-# 本文
+***
+
+# ゼミ論文本文
 
 ## 序論:
 What are you studying and why? 何を研究したのか？ 何故それを研究したのか？(500文字以内で簡単に記述する)
