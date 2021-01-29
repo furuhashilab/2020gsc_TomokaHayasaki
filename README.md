@@ -29,7 +29,7 @@ What have you learned from the study? この研究を通じて得られたもの
 本研究を進めるにあたり〇〇〇の〇〇氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
 # 資料  
-## ゼミ論文本文
+## ゼミ論文提出用資料
 https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/edit
 
 ## 関連するレポート・個人研究
