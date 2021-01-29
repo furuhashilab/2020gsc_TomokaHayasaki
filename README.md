@@ -43,3 +43,7 @@ https://github.com/furuhashilab/sotsuron2020/projects/30
 
 ## ゼミ論文最終発表スライド
 https://docs.google.com/presentation/d/1D5bHkm_bBWOCCGt1OyTdLWzyyrvOSBpyJRbFiMHYnFw/edit?usp=sharing
+
+***
+
+ © FuruhashiLabratory/Tomoka Hayasaki, CC BY 4.0 
