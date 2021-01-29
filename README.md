@@ -1,6 +1,7 @@
 # 2020年度ゼミ論文 
 # 「LocalWikiを用いた社会学的質的データアーカイブの実践と考察」
-## 青山学院大学 地球社会共生学部 地球社会共生学科  
+## 青山学院大学
+## 地球社会共生学部 地球社会共生学科  
 ## 1A116180 早﨑 智香 
 ## 指導教員　古橋大地 教授  
 ***
@@ -33,7 +34,7 @@ What have you learned from the study? この研究を通じて得られたもの
 https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/edit
 
 ## 関連するレポート・個人研究
-### ＜フィールドスタディーⅡ最終レポート＞「バンコクの大学生の生活において、信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
+### ＜フィールドスタディーⅡ最終レポート＞「バンコクの大学生の生活において信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
 https://drive.google.com/drive/u/0/folders/1kY-9IY3MMAcFdH6cV_RQALnbV0IOmTaY
 ### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
