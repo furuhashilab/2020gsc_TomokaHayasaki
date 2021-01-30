@@ -1,5 +1,5 @@
-# 2020gsc_ TomokaHayasaki
-2020年度　古橋研究室ゼミ論文用レポジトリ
+# 2020gsc_TomokaHayasaki
+# 2020年度 古橋研究室 ゼミ論文用レポジトリ
 
 青山学院大学 地球社会共生学部 地球社会共生学科
 
@@ -60,6 +60,3 @@ https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/
 https://drive.google.com/file/d/1k3ZF_0toX6GsS9Ek13okh80p6cCwzmh2/view?usp=sharing
 ### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
-***
-
- © FuruhashiLabratory/Tomoka Hayasaki, CC BY 4.0 
