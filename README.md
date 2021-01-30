@@ -9,7 +9,8 @@
 
 ## 序論:
 What are you studying and why? 何を研究したのか？ 何故それを研究したのか？(500文字以内で簡単に記述する)
-
+ 2019年１月から５月にかけて、タイ・バンコク郊外のカセサート大学で実施した社会学的調査を
+LocalWikiを用いたデジタル・アーカイブ化の実践を行った。
 
 ## 研究方法:
 What did you do? 具体的には何をしたのか？(500文字以内で簡単に記述する)
@@ -41,7 +42,7 @@ https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/
 ### ＜フィールドスタディーⅡ最終レポート＞「バンコクの大学生の生活において信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
 https://drive.google.com/drive/u/0/folders/1kY-9IY3MMAcFdH6cV_RQALnbV0IOmTaY
 ### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
-https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
+https://drive.google.com/file/d/1k3ZF_0toX6GsS9Ek13okh80p6cCwzmh2/view?usp=sharing
 
 ## 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/30
