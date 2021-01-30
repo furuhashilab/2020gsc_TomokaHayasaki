@@ -10,11 +10,16 @@
 ## 序論:
 What are you studying and why? 何を研究したのか？ 何故それを研究したのか？(500文字以内で簡単に記述する)
 
+
 ## 研究方法:
 What did you do? 具体的には何をしたのか？(500文字以内で簡単に記述する)
+　フィールドワーク中にはMappillaryを用いて
 
 ## 研究結果:
 What did you find? 何がわかったのか? (500文字以内で簡単に記述する)
+
+### 成果物
+https://localwiki.org/kasetsartuniv/
 
 ## 考察:
 What do your findings mean? あなたが見つけたことは何を意味するのか？どんな議論をしたか。(500文字以内で簡単に記述する)
