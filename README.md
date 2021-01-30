@@ -43,9 +43,8 @@ https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/
 
 ## 関連するレポート・個人研究
 ### ＜フィールドスタディーⅡ最終レポート＞「バンコクの大学生の生活において信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
-https://drive.google.com/drive/u/0/folders/1kY-9IY3MMAcFdH6cV_RQALnbV0IOmTaY
-### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 https://drive.google.com/file/d/1k3ZF_0toX6GsS9Ek13okh80p6cCwzmh2/view?usp=sharing
+### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 
 ## 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/30
