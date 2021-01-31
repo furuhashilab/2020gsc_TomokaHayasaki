@@ -51,9 +51,6 @@ https://github.com/furuhashilab/sotsuron2020/projects/30
 ## ゼミ論文最終発表スライド
 https://docs.google.com/presentation/d/1D5bHkm_bBWOCCGt1OyTdLWzyyrvOSBpyJRbFiMHYnFw/edit?usp=sharing
 
-## ゼミ論文提出用資料
-https://docs.google.com/document/d/1Qmz64f1kxJHaBk3rYGq3RFllX_QlGk1QIRoNHFAt2v0/edit
-
 ## 関連するレポート・個人研究
 
 ### ＜フィールドスタディーⅡ最終レポート＞「バンコクの大学生の生活において信仰はどのように機能しているか −かれらの想起する「ピー」と、怪談の持つ機能について−」
