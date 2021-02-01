@@ -47,7 +47,7 @@ https://localwiki.org/kasetsartuniv/
 https://docs.google.com/spreadsheets/d/1lmj41pEq-B7kUad6FJNMZQ8eLDXuJtymozBKkszXlyA/edit?usp=sharing
 
 # 謝辞:
-本研究を進めるにあたり〇〇〇の〇〇氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+本研究を進めるにあたり、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。また、実地調査とそのデータの利用に際し、キー・インフォーマントとなってくださった3名の方にはひとかたならぬご協力を賜りました。厚く感謝を申し上げます。
 
 ***
 
