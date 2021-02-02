@@ -62,3 +62,4 @@ https://docs.google.com/presentation/d/1D5bHkm_bBWOCCGt1OyTdLWzyyrvOSBpyJRbFiMHY
 https://drive.google.com/file/d/1k3ZF_0toX6GsS9Ek13okh80p6cCwzmh2/view?usp=sharing
 ### ＜個人研究＞「タイ・バンコクの大学生の「信仰」が持つ機能に関する考察」
 https://docs.google.com/document/d/12075YAm-NC4UaPCV22lVuejUV2sRULxGdw7sL49aPFA/edit?usp=sharing
+
